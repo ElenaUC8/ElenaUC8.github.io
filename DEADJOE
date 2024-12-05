@@ -1,0 +1,52 @@
+
+*** These modified files were found in JOE when it aborted on Thu Dec  5 13:30:36 2024
+*** JOE was aborted because the terminal closed
+
+*** File '/home/user/Documentos/Universidad/4º Curso/ElenaUC8.github.io/.git/MERGE_MSG'
+Merge branch 'main' of github.com:ElenaUC8/ElenaUC8.github.io
+# Por favor ingresa un mensaje de commit que explique por qué es necesaria esta fusión,
+# especialmente si esto fusiona un upstream actualizado en una rama de tópico.
+#
+# Líneas comenzando con '#' serán ignoradas, y un mensaje vacío aborta
+# el commit.
+Fusión debida a cambios que se han hecho en remoto y no en local y ahora hay fallos
+*** File '(Unnamed)'
+instrucciones.txt
+config.txt
+confiig
+.ssh/config
+dm.txt
+README.txt
+codigo
+importante.txt
+codigoimportante.txt
+version.py
+/home/user/Documentos/Universidad/4º Curso/ElenaUC8.github.io/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Thu Dec  5 13:34:10 2024
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+instrucciones.txt
+config.txt
+confiig
+.ssh/config
+dm.txt
+README.txt
+codigo
+importante.txt
+codigoimportante.txt
+version.py
+/home/user/Documentos/Universidad/4º Curso/ElenaUC8.github.io/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
